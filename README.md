@@ -1,4 +1,5 @@
-# Camping
+# La Vallée des Croisés
+
 This is a group web project for school 
 
 The goal of this projet was to create a campsite website using PHP / SQL / HTML / CSS.
